@@ -1,4 +1,4 @@
-# TicTacToe Game
+# Chat App with Firebase
 
 ## Overview
 
