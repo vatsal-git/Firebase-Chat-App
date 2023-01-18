@@ -2,7 +2,7 @@
 
 ## Overview
 
-- Chat app with Firebase database
+- Chat app with Firebase database.
 - Part of Internshala React Js course.
 - Learned database integration.
 
